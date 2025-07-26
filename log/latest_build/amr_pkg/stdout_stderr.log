@@ -1,0 +1,23 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/description/bot.urdf.xacro
+-- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/description/final.urdf.xacro
+-- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/description/gazebo_control.xacro
+-- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/description/inertial_macros.xacro
+-- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/launch/amr_launch.py
+-- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/launch/robot_basic_launch_file.py
+-- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/ament_index/resource_index/package_run_dependencies/amr_pkg
+-- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/ament_index/resource_index/parent_prefix_path/amr_pkg
+-- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/environment/path.sh
+-- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/environment/path.dsv
+-- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/local_setup.bash
+-- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/local_setup.sh
+-- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/local_setup.zsh
+-- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/local_setup.dsv
+-- Symlinking: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/package.dsv
+-- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/ament_index/resource_index/packages/amr_pkg
+-- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/cmake/amr_pkgConfig.cmake
+-- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/cmake/amr_pkgConfig-version.cmake
+-- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/package.xml
