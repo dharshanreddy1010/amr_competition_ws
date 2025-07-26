@@ -1,0 +1,24 @@
+[0.010s] Invoking command in '/home/dharshan_reddy/amr_competition_ws/build/amr_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/dharshan_reddy/amr_competition_ws/install/amr_demo_pkg:/opt/ros/humble /usr/bin/cmake --build /home/dharshan_reddy/amr_competition_ws/build/amr_pkg -- -j14 -l14
+[0.039s] Invoked command in '/home/dharshan_reddy/amr_competition_ws/build/amr_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/dharshan_reddy/amr_competition_ws/install/amr_demo_pkg:/opt/ros/humble /usr/bin/cmake --build /home/dharshan_reddy/amr_competition_ws/build/amr_pkg -- -j14 -l14
+[0.049s] Invoking command in '/home/dharshan_reddy/amr_competition_ws/build/amr_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/dharshan_reddy/amr_competition_ws/install/amr_demo_pkg:/opt/ros/humble /usr/bin/cmake --install /home/dharshan_reddy/amr_competition_ws/build/amr_pkg
+[0.056s] -- Install configuration: ""
+[0.056s] -- Execute custom install script
+[0.056s] -- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/description/bot.urdf.xacro
+[0.057s] -- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/description/inertial_macros.xacro
+[0.057s] -- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/launch/amr_launch.py
+[0.057s] -- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/ament_index/resource_index/package_run_dependencies/amr_pkg
+[0.057s] -- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/ament_index/resource_index/parent_prefix_path/amr_pkg
+[0.057s] -- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/environment/ament_prefix_path.sh
+[0.057s] -- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/environment/ament_prefix_path.dsv
+[0.057s] -- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/environment/path.sh
+[0.057s] -- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/environment/path.dsv
+[0.057s] -- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/local_setup.bash
+[0.057s] -- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/local_setup.sh
+[0.057s] -- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/local_setup.zsh
+[0.057s] -- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/local_setup.dsv
+[0.057s] -- Symlinking: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/package.dsv
+[0.062s] -- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/ament_index/resource_index/packages/amr_pkg
+[0.062s] -- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/cmake/amr_pkgConfig.cmake
+[0.062s] -- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/cmake/amr_pkgConfig-version.cmake
+[0.062s] -- Up-to-date symlink: /home/dharshan_reddy/amr_competition_ws/install/amr_pkg/share/amr_pkg/package.xml
+[0.064s] Invoked command in '/home/dharshan_reddy/amr_competition_ws/build/amr_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/dharshan_reddy/amr_competition_ws/install/amr_demo_pkg:/opt/ros/humble /usr/bin/cmake --install /home/dharshan_reddy/amr_competition_ws/build/amr_pkg
